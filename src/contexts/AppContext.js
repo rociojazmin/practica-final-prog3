@@ -1,3 +1,4 @@
+"use client";
 // Importaciones necesarias desde React y axios
 import { createContext, useState, useEffect, useContext, useCallback } from 'react';
 import axios from 'axios';
